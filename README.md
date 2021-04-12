@@ -7,4 +7,5 @@ The contest aims at exploiting Machine Learning for Alzheimer's disease detectio
 The solution shown in the Notebook, implemented by means of *scikit-learn*, is made up of two main stages:
 - **Preprocessing**: data cleaning and dealing with missing values.
 - **Modeling**: compare several models, such as *Decision Tree*, *K-Nearest Neighbour (KNN)*, *Logistic Regression*, *Multi-Layer Perceptron (MLP)* and *Support Vector Machine*.
+
 The final model choosed for the submission is an SVM that achieved an accuracy of 0.74482.
